@@ -1,0 +1,8 @@
+▁ I ▁l ove ▁tokenization ▁in ▁ N L P .
+▁T okenization ▁ he l p s ▁ s pl it ▁ the ▁ t ex t ▁in to ▁ s ma l le r ▁u ni t s .
+▁ S u b wor d ▁tokenization ▁ imp r ove s ▁model ▁p er f or ma nc e .
+▁Byte ▁ P a i r ▁ E nc od i ng ▁i s ▁a ▁p o p u l ar ▁tokenization ▁te ch ni q u e .
+▁ U ni g r am ▁ L a ng u a g e ▁ M odel ▁i s ▁ an o the r ▁a p pro a ch ▁to ▁tokenization .
+▁ W ord P i e ce ▁i s ▁u s e d ▁in ▁model s ▁l i ke ▁B E R T .
+▁Byte - le ve l ▁B P E ▁ wor k s ▁w i th ▁ b yte ▁ ch ar ac t er s .
+▁T h i s ▁i s ▁a ▁ s imp le ▁ ex am p le ▁to ▁ de mo n s t ra te ▁tokenization .
