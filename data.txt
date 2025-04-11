@@ -1,8 +1,0 @@
-I love tokenization in NLP.
-Tokenization helps split the text into smaller units.
-Subword tokenization improves model performance.
-Byte Pair Encoding is a popular tokenization technique.
-Unigram Language Model is another approach to tokenization.
-WordPiece is used in models like BERT.
-Byte-level BPE works with byte characters.
-This is a simple example to demonstrate tokenization.

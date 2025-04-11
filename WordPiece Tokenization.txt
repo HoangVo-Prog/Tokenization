@@ -1,8 +1,0 @@
-I l ##ove tokenization in N ##L ##P .
-T ##o ##kenization h ##el ##p ##s s ##pl ##i ##t t ##h ##e te ##x ##t in ##t ##o s ##ma ##l ##l ##er u ##ni ##t ##s .
-S ##u ##b ##w ##ord tokenization i ##m ##pr ##ove ##s model p ##er ##f ##or ##ma ##nc ##e .
-Byte P ##a ##i ##r E ##nc ##od ##i ##ng is a p ##o ##p ##u ##l ##a ##r tokenization te ##ch ##ni ##q ##u ##e .
-U ##ni ##g ##ra ##m L ##a ##ng ##u ##a ##g ##e M ##odel is a ##n ##o ##th ##er a ##p ##pr ##o ##a ##ch to tokenization .
-W ##ord ##P ##i ##e ##c ##e is u ##s ##e ##d in model ##s l ##i ##ke B ##E ##R ##T .
-Byte - l ##e ##ve ##l B ##P ##E w ##or ##k ##s w ##i ##th b ##yte c ##h ##a ##ra ##c ##t ##er ##s .
-T ##h ##i ##s is a s ##i ##mple e ##x ##a ##mple to d ##e ##m ##on ##s ##t ##ra ##t ##e tokenization .
