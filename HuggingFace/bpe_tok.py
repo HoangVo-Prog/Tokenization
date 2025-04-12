@@ -12,7 +12,6 @@ def read_dataset(split="train"):
 
 if __name__ == "__main__":
     # Define special tokens
-    print(1)
     unk_token = "[UNK]"
     pad_token = "[PAD]"
     mask_token = "[MASK]"
@@ -24,3 +23,5 @@ if __name__ == "__main__":
     en_tokenizer.pre_tokenizer = Whitespace()
     en_trainer = BpeTrainer(special_tokens=special_tokens)
     en_tokenizer.train_from_iterator(read_dataset('train')['en'].tolist(), trainer=en_trainer)
+
+    en_tokenizer.save("bpe.json")
